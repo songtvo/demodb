@@ -1,0 +1,1 @@
+ALTER TABLE `role` ADD COLUMN `desc` varchar(500) NOT NULL;
